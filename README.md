@@ -1,8 +1,9 @@
 ### archlinux-mlat-client
 #### mlat-client for Arch Linux & Arch Linux Arm </br> 
 #### Provides 
-- **(1) mlat-client (in folder /usr/bin/)**
-- **(2) fa-mlat-client (for piaware, in folder /usr/lib/piaware/helpers/)** </br>
+- **(1) fa-mlat-client (for piaware, in folder /usr/lib/piaware/helpers/)** </br>
+- **(2) mlat-client (for rbfeeder, in folder /usr/bin/)**
+
 
 **Uses source-code from https://github.com/mutability/mlat-client** <br>
 
