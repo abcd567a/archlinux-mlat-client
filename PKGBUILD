@@ -17,7 +17,7 @@ makedepends=(
   'python-wheel'
 )
 
-depends=('python')
+depends=('python' 'python-pyasyncore')
 
 source=('mlat-client::git+https://github.com/mutability/mlat-client.git')
 
