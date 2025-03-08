@@ -10,7 +10,7 @@
 ### Build & Install:
 
 ```
-sudo pacman -S --needed git fakeroot 
+sudo pacman -S --needed git fakeroot python-pyasyncore
 
 git clone https://github.com/abcd567a/archlinux-mlat-client   
 
